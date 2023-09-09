@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UrbanismoTactico</string>
+    <string name="find_beer">buscar la signal</string>
+    <string name="brands">Ninguna signal fue selected</string>
+    <string-array name="beers">
+        <item>Reglamentarias</item>
+        <item>preventivas</item>
+        <item>informativas</item>
+        <item>transitorias</item>
+    </string-array>
+</resources>
